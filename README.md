@@ -1,7 +1,8 @@
 # MaxSum
 Finding the maximum sum way from the top to the base of the triangle
 First triangle
-https://dl.dropboxusercontent.com/u/28873424/tasks/simple_triangle.txt 
+https://dl.dropboxusercontent.com/u/28873424/tasks/simple_triangle.txt
+
 Second triangle
 https://dl.dropboxusercontent.com/u/28873424/tasks/triangle.txt
 
