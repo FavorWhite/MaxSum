@@ -1,0 +1,6 @@
+D:\MaxSum1\MaxSum\MaxSum\bin\Debug\MaxSum.exe.config
+D:\MaxSum1\MaxSum\MaxSum\obj\Debug\MaxSum.csprojResolveAssemblyReference.cache
+D:\MaxSum1\MaxSum\MaxSum\bin\Debug\MaxSum.exe
+D:\MaxSum1\MaxSum\MaxSum\bin\Debug\MaxSum.pdb
+D:\MaxSum1\MaxSum\MaxSum\obj\Debug\MaxSum.exe
+D:\MaxSum1\MaxSum\MaxSum\obj\Debug\MaxSum.pdb
